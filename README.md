@@ -4,7 +4,7 @@ Parcours Professionnel & Compétences Acquises
 
 🚀 Êtes-vous prêt(e) à entamer une nouvelle étape dans votre parcours professionnel ?
 
-Oui, je suis tout à fait prête à franchir une nouvelle étape dans ma carrière. Ce Bootcamp m’a permis non seulement d’acquérir et de renforcer des compétences techniques, mais aussi de développer davantage ma rigueur, mon autonomie et ma capacité à résoudre des problèmes concrets dans un environnement technologique en constante évolution.
+Oui, je suis tout à fait prête à franchir une nouvelle étape dans ma carrière (par exemple gerer le site Web de ma Direction). Ce Bootcamp m’a permis non seulement d’acquérir et de renforcer des compétences techniques, mais aussi de développer davantage ma rigueur, mon autonomie et ma capacité à résoudre des problèmes concrets dans un environnement technologique en constante évolution.
 Je suis aujourd’hui en mesure de contribuer efficacement à un projet web moderne, de comprendre les enjeux du développement fullstack (MERN) et d’intégrer une équipe de développement dynamique.
 
 💡 Idée ou objectif professionnel que je souhaite explorer
